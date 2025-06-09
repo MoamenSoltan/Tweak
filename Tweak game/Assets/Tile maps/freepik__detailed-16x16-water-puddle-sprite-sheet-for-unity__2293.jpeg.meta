@@ -1,0 +1,1584 @@
+fileFormatVersion: 2
+guid: b0b3a30053e346f4e9f23d0b98db4b14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5526832577045272557
+    second: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de717d742f043bc40800000000000000
+      internalID: 5526832577045272557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5d15abcd84fea43845889a3e543133
+      internalID: -1232675195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b82f314ab77aa439405f2ccece7bf8
+      internalID: 1537046580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c193790562f6541b186c23988b6db4
+      internalID: -733716400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c309af17db813eb4aba2027730940942
+      internalID: 121749656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67e47322d85d6447afea14dede27bdc
+      internalID: 1519602680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c1fee77196af04ab0e7bdce3a79432
+      internalID: 357893284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361ac1471576ac641afd030bb2a4288a
+      internalID: -1975388712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7419aaaf2ed56f345b2d0f54298a9fe8
+      internalID: -1606680126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f521f1d31d1f933488d4ee810f45a7a4
+      internalID: 2041837338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623267cad869d814d9cc22aea5b22940
+      internalID: 772815624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_11
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c1d4c4c03dfb84885ccb8936856aca
+      internalID: -387695064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_12
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea629ff365e191e4496520118a6c2ee6
+      internalID: 2004245164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4fe380606779e409a4300a88d55e07
+      internalID: -1731713121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f7c18046c20c94399d6a881cf2ed99
+      internalID: -555890436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cd3d321bd33df42ac0066eea44449c
+      internalID: 1728476539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_16
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36985690bec584244a45d3a68244cb13
+      internalID: -1891906608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a84b1b3b5642f48b8050029ed5959f
+      internalID: -1563258755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928b3b3996bdc9844aac9419c6b85f7e
+      internalID: -852057564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_19
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c020b7231582121488e74c829528de7e
+      internalID: -172729548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_20
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dead3658a0a62469f7c2b3bc8c1e25
+      internalID: 254334062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce89e78710f3e124b9daa5630c6dfd23
+      internalID: -1220648678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc515435323779e45a7461bb260ef8d7
+      internalID: 133606563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_23
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3620998458e31c74baae1fffa33bfdaa
+      internalID: 231478087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_24
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87877bac9d564494fba14be9333b5f8b
+      internalID: 903725177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deff431701fe4f74aa8fee2bd71aecaf
+      internalID: -1285346850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78c6017150d710459426691775375c2
+      internalID: -1860607212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e470a6554501c944a99fe35710a5f36b
+      internalID: -835285727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af75064e545431d49a6f72ce696350be
+      internalID: 119981484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c88ba94bc139c4585e7d0047ec1115
+      internalID: -1407466611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_30
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3678beb8070fd488da97eaa0b577e8
+      internalID: -2081761434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd8a0adfd37e694db83f745bb0862a5
+      internalID: 1627468000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_32
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5a294af00d66947963b07565ad49e4
+      internalID: 15075537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_33
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c366d9d0d93672042b6c3b014479204b
+      internalID: -1634151065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_34
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad11a4d90cb3e648850649c10ebce57
+      internalID: -567351018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b4692baf158a44990879b7d5786412
+      internalID: -1604316042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c3012cb1e57b4ab373667b4195af4
+      internalID: -1621789789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_37
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3c78e7475db924b9c21eab5acf13f1
+      internalID: 934659280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e44746f8e0a3443886102b0535943d
+      internalID: -1027885348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_39
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe511f6e152bc34c9ca73ddf1df9a29
+      internalID: -966481069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_40
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bbf620f255dc94cb3b6ff8ee8fdbeb
+      internalID: -295443497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 251c7838bcf343d40b46d96e66e4a72e
+      internalID: 406205791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb0eebb7671afe4bbf5776f232f3abe
+      internalID: -455011418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910735b64a621234e80ad354ea7c124f
+      internalID: -1973007959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ef3be7e6c79f24992e0727535b9855
+      internalID: -1805433615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00cd3e1b0b7d3b5418ec7a98d06d666a
+      internalID: -929535440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30fe9f8e4b62b468554506dae11ac4
+      internalID: 417288774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_47
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd1a6b800ba87f4c80dae1859ca897e
+      internalID: 318974497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_48
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565d08503c48b8043b8f0fd28c95f069
+      internalID: 1902816509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed960706c970b3a4ca974d1b433d0f5e
+      internalID: -1973248878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63667e19f12fbad4c91aefe2b4db7762
+      internalID: 669693366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_51
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05383b345a049741a1b2fab7cde5206
+      internalID: -1902754081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_52
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b6c6c7b1c3794d9ffb3d0d0411664
+      internalID: 1931081981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_53
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982bf8b7f38a44a47b36810362c3b810
+      internalID: 215421015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_54
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0d58d1cbe39a458ae497d1b0e363a
+      internalID: 1098703570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_55
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d91fc3be0a5a641984d2f9ebcf281a
+      internalID: 1214956069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710cf2c64a2eb9843acb9b386bf50e38
+      internalID: 769117398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_57
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1271037c1a987a64f9767adf8c2c84d4
+      internalID: -1236184849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_58
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050821a885b032e4382eab924a07c51e
+      internalID: -2011461109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_59
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a85ea355b2ec0142a2642bcd1b79c60
+      internalID: 171923338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_60
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b308a8425347d4e9d066e183fc9ceb
+      internalID: 1592416646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_61
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cafce021ff08f34091563610df7a4d5
+      internalID: -587820988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_62
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66585e5c045b22b40933d3aceea0b4f8
+      internalID: -1951156576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1d9d4779e2388a641afbacbf27b53f43
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":128.0,"y":128.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_0: 5526832577045272557
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_1: -1232675195
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_10: 772815624
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_11: -387695064
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_12: 2004245164
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_13: -1731713121
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_14: -555890436
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_15: 1728476539
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_16: -1891906608
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_17: -1563258755
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_18: -852057564
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_19: -172729548
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_2: 1537046580
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_20: 254334062
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_21: -1220648678
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_22: 133606563
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_23: 231478087
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_24: 903725177
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_25: -1285346850
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_26: -1860607212
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_27: -835285727
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_28: 119981484
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_29: -1407466611
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_3: -733716400
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_30: -2081761434
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_31: 1627468000
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_32: 15075537
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_33: -1634151065
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_34: -567351018
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_35: -1604316042
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_36: -1621789789
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_37: 934659280
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_38: -1027885348
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_39: -966481069
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_4: 121749656
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_40: -295443497
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_41: 406205791
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_42: -455011418
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_43: -1973007959
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_44: -1805433615
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_45: -929535440
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_46: 417288774
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_47: 318974497
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_48: 1902816509
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_49: -1973248878
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_5: 1519602680
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_50: 669693366
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_51: -1902754081
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_52: 1931081981
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_53: 215421015
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_54: 1098703570
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_55: 1214956069
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_56: 769117398
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_57: -1236184849
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_58: -2011461109
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_59: 171923338
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_6: 357893284
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_60: 1592416646
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_61: -587820988
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_62: -1951156576
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_7: -1975388712
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_8: -1606680126
+      freepik__detailed-16x16-water-puddle-sprite-sheet-for-unity__2293_9: 2041837338
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
