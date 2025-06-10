@@ -151,7 +151,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -165,7 +165,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -189,7 +189,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -230,10 +230,10 @@ TextureImporter:
       name: swordman_1_0
       rect:
         serializedVersion: 2
-        x: 18
-        y: 269
-        width: 19
-        height: 28
+        x: 0
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: swordman_1_1
       rect:
         serializedVersion: 2
-        x: 82
-        y: 269
-        width: 19
-        height: 29
+        x: 64
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -274,10 +274,10 @@ TextureImporter:
       name: swordman_1_2
       rect:
         serializedVersion: 2
-        x: 146
-        y: 269
-        width: 19
-        height: 29
+        x: 128
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -296,10 +296,10 @@ TextureImporter:
       name: swordman_1_3
       rect:
         serializedVersion: 2
-        x: 210
-        y: 269
-        width: 19
-        height: 29
+        x: 192
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -318,10 +318,10 @@ TextureImporter:
       name: swordman_1_4
       rect:
         serializedVersion: 2
-        x: 274
-        y: 269
-        width: 19
-        height: 29
+        x: 256
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -340,10 +340,10 @@ TextureImporter:
       name: swordman_1_5
       rect:
         serializedVersion: 2
-        x: 338
-        y: 269
-        width: 19
-        height: 28
+        x: 320
+        y: 256
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -362,10 +362,10 @@ TextureImporter:
       name: swordman_1_6
       rect:
         serializedVersion: 2
-        x: 18
-        y: 205
-        width: 19
-        height: 29
+        x: 0
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -384,10 +384,10 @@ TextureImporter:
       name: swordman_1_7
       rect:
         serializedVersion: 2
-        x: 84
-        y: 205
-        width: 20
-        height: 28
+        x: 64
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -406,10 +406,10 @@ TextureImporter:
       name: swordman_1_8
       rect:
         serializedVersion: 2
-        x: 147
-        y: 205
-        width: 19
-        height: 29
+        x: 128
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -428,10 +428,10 @@ TextureImporter:
       name: swordman_1_9
       rect:
         serializedVersion: 2
-        x: 210
-        y: 205
-        width: 19
-        height: 29
+        x: 192
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -450,10 +450,10 @@ TextureImporter:
       name: swordman_1_10
       rect:
         serializedVersion: 2
-        x: 271
-        y: 205
-        width: 23
-        height: 28
+        x: 256
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -472,10 +472,10 @@ TextureImporter:
       name: swordman_1_11
       rect:
         serializedVersion: 2
-        x: 336
-        y: 205
-        width: 22
-        height: 29
+        x: 320
+        y: 192
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -494,10 +494,10 @@ TextureImporter:
       name: swordman_1_12
       rect:
         serializedVersion: 2
-        x: 18
-        y: 141
-        width: 19
-        height: 28
+        x: 0
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -516,10 +516,10 @@ TextureImporter:
       name: swordman_1_13
       rect:
         serializedVersion: 2
-        x: 84
-        y: 141
-        width: 20
-        height: 24
+        x: 64
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -538,10 +538,10 @@ TextureImporter:
       name: swordman_1_14
       rect:
         serializedVersion: 2
-        x: 146
-        y: 136
-        width: 27
-        height: 22
+        x: 128
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -560,10 +560,10 @@ TextureImporter:
       name: swordman_1_15
       rect:
         serializedVersion: 2
-        x: 209
-        y: 135
-        width: 30
-        height: 17
+        x: 192
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -582,10 +582,10 @@ TextureImporter:
       name: swordman_1_16
       rect:
         serializedVersion: 2
-        x: 212
-        y: 131
-        width: 16
-        height: 10
+        x: 256
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -604,10 +604,10 @@ TextureImporter:
       name: swordman_1_17
       rect:
         serializedVersion: 2
-        x: 273
-        y: 135
-        width: 30
-        height: 18
+        x: 320
+        y: 128
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -626,10 +626,10 @@ TextureImporter:
       name: swordman_1_18
       rect:
         serializedVersion: 2
-        x: 337
-        y: 135
-        width: 30
-        height: 17
+        x: 0
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -648,10 +648,10 @@ TextureImporter:
       name: swordman_1_19
       rect:
         serializedVersion: 2
-        x: 340
-        y: 131
-        width: 16
-        height: 10
+        x: 64
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -670,10 +670,10 @@ TextureImporter:
       name: swordman_1_20
       rect:
         serializedVersion: 2
-        x: 276
-        y: 130
-        width: 15
-        height: 10
+        x: 128
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,10 +692,10 @@ TextureImporter:
       name: swordman_1_21
       rect:
         serializedVersion: 2
-        x: 18
-        y: 77
-        width: 19
-        height: 28
+        x: 192
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -714,10 +714,10 @@ TextureImporter:
       name: swordman_1_22
       rect:
         serializedVersion: 2
-        x: 81
-        y: 77
-        width: 20
-        height: 29
+        x: 256
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -736,10 +736,10 @@ TextureImporter:
       name: swordman_1_23
       rect:
         serializedVersion: 2
-        x: 135
-        y: 77
-        width: 30
-        height: 32
+        x: 320
+        y: 64
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -758,10 +758,10 @@ TextureImporter:
       name: swordman_1_24
       rect:
         serializedVersion: 2
-        x: 212
-        y: 77
-        width: 41
-        height: 28
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -780,10 +780,10 @@ TextureImporter:
       name: swordman_1_25
       rect:
         serializedVersion: 2
-        x: 277
-        y: 77
-        width: 36
-        height: 28
+        x: 64
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -798,297 +798,11 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: swordman_1_26
-      rect:
-        serializedVersion: 2
-        x: 341
-        y: 77
-        width: 22
-        height: 27
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 6e0cc923764b1cad0800000000000000
-      internalID: -2683665547612339994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_27
-      rect:
-        serializedVersion: 2
-        x: 21
-        y: 28
-        width: 12
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a04c07181f807d690800000000000000
-      internalID: -7577578014675778550
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_28
-      rect:
-        serializedVersion: 2
-        x: 25
-        y: 38
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 29025fe2887543500800000000000000
-      internalID: 375020911393579154
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_29
-      rect:
-        serializedVersion: 2
-        x: 37
-        y: 28
-        width: 12
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 82f9d7ddc6eb34460800000000000000
-      internalID: 7224827602014150440
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_30
-      rect:
-        serializedVersion: 2
-        x: 41
-        y: 38
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a462d42fe746e7b80800000000000000
-      internalID: -8395162158978226614
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_31
-      rect:
-        serializedVersion: 2
-        x: 53
-        y: 28
-        width: 12
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 03e2bb05a24b6c390800000000000000
-      internalID: -7798347610909364688
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_32
-      rect:
-        serializedVersion: 2
-        x: 57
-        y: 38
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: eb372b04b2f748660800000000000000
-      internalID: 7387169112540214206
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_33
-      rect:
-        serializedVersion: 2
-        x: 69
-        y: 28
-        width: 12
-        height: 10
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ffa0f6f5bbe67b6c0800000000000000
-      internalID: -4127708782422717697
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_34
-      rect:
-        serializedVersion: 2
-        x: 73
-        y: 38
-        width: 8
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: a02629be317dacd10800000000000000
-      internalID: 2146764652952052234
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_35
-      rect:
-        serializedVersion: 2
-        x: 23
-        y: 21
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 70da3724698cfbe60800000000000000
-      internalID: 7980317612409335047
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_36
-      rect:
-        serializedVersion: 2
-        x: 39
-        y: 21
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 47bcce548f9ce1170800000000000000
-      internalID: 8151174443749395316
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_37
-      rect:
-        serializedVersion: 2
-        x: 55
-        y: 21
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d3d3eb2052cf8a710800000000000000
-      internalID: 1704889694849744189
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: swordman_1_38
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 21
-        width: 10
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5273180378ca18f80800000000000000
-      internalID: -8106008157655845083
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: da07a2b1f41a7df43aa96bdea310d641
     internalID: 0
     vertices: []
     indices: 
@@ -1096,7 +810,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       swordman_1_0: -4044270591656335154
       swordman_1_1: -2274838042098670349
@@ -1117,20 +833,7 @@ TextureImporter:
       swordman_1_23: 3455069308732901189
       swordman_1_24: -3374666518103398822
       swordman_1_25: 275745771075939869
-      swordman_1_26: -2683665547612339994
-      swordman_1_27: -7577578014675778550
-      swordman_1_28: 375020911393579154
-      swordman_1_29: 7224827602014150440
       swordman_1_3: 6234390534674401198
-      swordman_1_30: -8395162158978226614
-      swordman_1_31: -7798347610909364688
-      swordman_1_32: 7387169112540214206
-      swordman_1_33: -4127708782422717697
-      swordman_1_34: 2146764652952052234
-      swordman_1_35: 7980317612409335047
-      swordman_1_36: 8151174443749395316
-      swordman_1_37: 1704889694849744189
-      swordman_1_38: -8106008157655845083
       swordman_1_4: 7974466474917362496
       swordman_1_5: -6302737190072934258
       swordman_1_6: 1454542937131205382
